@@ -15,7 +15,7 @@ Design SQL queries to generate accurate and timely financial reports including P
 
 ## Project Result
 
-[Click here to get full code](https://github.com/nickenshidqia/Online_Movie_Rental_Shop_Data_Analysis_SQL_Project/blob/9ab5a4d2b8f69a7341c924b5952b23026e0bfff8/SQL%20Project%20Greencycle%20Movie%20Rental%20Company.sql)
+[Click here to get full code](https://github.com/nickenshidqia/SQL-for-Financial-Data-Analysis/blob/aac2494bee476ff112744a182a6accfbc82a9c8d/SQLQuery_finance.sql)
 
 ### A. Profit & Loss Statement
 
